@@ -38,10 +38,14 @@
 ```bash
 python main.py
 ```
-## for for MacOS
+## for MacOS
 ```python
-
+# for mac os
+engine.addImportPath("/Users/mbr/Qt/QtDesignStudio-4.1.1-lts/Qt Design Studio.app/Contents/Resources/qt6_design_studio_reduced_version/qml")
+engine.addImportPath("/Users/mbr/Qt/6.8.2/macos/qml")
+#####
 ```
 
 
 ![sampel Linux](picture.png)
+![sampel mac](picMac.png)
