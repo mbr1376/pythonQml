@@ -1,7 +1,7 @@
 ### Python project using qml, Qt Designer Studio
 
 *Cannot use be from Qt Designer Studio in Python To use this tool, the following settings must be made*
-
+## for linux
 1. copy component studio
     ```bash
     cd pathQt/Tools/QtDesignStudio/qt6_design_studio_reduced_version/qml
@@ -38,5 +38,10 @@
 ```bash
 python main.py
 ```
+## for for MacOS
+```python
 
-![sampel](picture.png)
+```
+
+
+![sampel Linux](picture.png)
